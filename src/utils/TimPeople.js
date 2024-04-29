@@ -2,6 +2,9 @@ import Gilbert from "../assets/images/People/Gilbert.jpg";
 
 import anishRimal from "../assets/images/People/anish_rimal.jpeg";
 import amirPoudel from "../assets/images/People/amir_poudel.jpeg";
+import asbinKhanal from "../assets/images/People/asbin_khanal.jpeg";
+
+import robot from "../assets/images/People/ScifRobot.png";
 
 const TimPeople = [
   {
@@ -13,7 +16,7 @@ const TimPeople = [
   {
     id: 2,
     title: "Asbin Khanal",
-    icon: <img src={""} alt="Asbin Khanal" />,
+    icon: <img src={asbinKhanal} alt="Asbin Khanal" />,
     description: "Mobile Application Developer",
   },
   {
@@ -25,7 +28,7 @@ const TimPeople = [
   {
     id: 3,
     title: "Adarsha Wagle",
-    icon: <img src={""} alt="Frontend Developer" />,
+    icon: <img src={robot} alt="Frontend Developer" />,
     description: "Frontend Developer",
   },
 ];
