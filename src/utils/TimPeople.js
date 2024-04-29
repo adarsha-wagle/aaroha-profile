@@ -28,7 +28,7 @@ const TimPeople = [
   {
     id: 3,
     title: "Adarsha Wagle",
-    icon: <img src={robot} alt="Frontend Developer" />,
+    icon: <img src={robot} alt="Adarsha Wagle" />,
     description: "Frontend Developer",
   },
 ];
